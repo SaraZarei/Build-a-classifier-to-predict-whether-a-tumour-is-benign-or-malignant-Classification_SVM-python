@@ -1,5 +1,5 @@
 # Classification_SVM_algorithm_human_cell_dataset_python
-we used SVM (Support Vector Machines) to build a classifier using human cell records to  predict whether a tumor is benign or malignant.
+we used SVM (Support Vector Machines) to build a classifier using human cell records to  predict whether a tumour is benign or malignant.
 ## SVM
 SVM works by mapping data to a high-dimensional feature space so that data points can be categorized, even when the data are not linearly separable. A separator between the categories is found, then the data is transformed in such a way that the separator could be drawn as a hyperplane. Following this, characteristics of new data can be used to predict the group to which a new record should belong.
 ## Data
